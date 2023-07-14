@@ -1,18 +1,18 @@
 const cards = [
-	"./img/1.jpg",
-	"./img/2.webp",
-	"./img/3.jpg",
-	"./img/4.webp",
-	"./img/5.jpg",
-	"./img/6.webp",
-	"./img/7.webp",
-	"./img/8.webp",
-	"./img/r.webp"
+	"../img/1.jpg",
+	"../img/2.webp",
+	"../img/3.jpg",
+	"../img/4.webp",
+	"../img/5.jpg",
+	"../img/6.webp",
+	"../img/7.webp",
+	"../img/8.webp",
+	"../img/r.webp"
 ];
 
 export const back = [
-	"./img/back.jpg",
-	"./img/back2.jpg",
+	"../img/back.jpg",
+	"../img/back2.jpg",
 ]
 
 export class Card {
