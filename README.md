@@ -1,1 +1,1 @@
-reshetovProg.game.io
+https://reshetovprog.github.io/game/
