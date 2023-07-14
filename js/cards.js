@@ -11,8 +11,8 @@ const cards = [
 ];
 
 export const back = [
-	"./img/back.jpg",
-	"./img/back2.jpg",
+	"img/back.jpg",
+	"img/back2.jpg",
 ]
 
 export class Card {
