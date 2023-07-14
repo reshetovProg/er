@@ -1,5 +1,5 @@
-import { createCards, back } from "./cards.js";
-import { createMenu } from "./createMenu.js";
+import { createCards, back } from "cards.js";
+import { createMenu } from "createMenu.js";
 
 
 const gameWin = () => {
