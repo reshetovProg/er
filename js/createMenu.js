@@ -1,5 +1,5 @@
-import { createField } from "createField.js";
-import { back } from "cards.js";
+import { createField } from "./createField.js";
+import { back } from "./cards.js";
 
 export const createMenu = () => {
 
